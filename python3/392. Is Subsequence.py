@@ -15,8 +15,3 @@ class Solution:
 			return True
 		else:
 			return False
-	    	
-
-s = Solution()
-ans = s.isSubsequence("b", "abc")
-print(ans)
