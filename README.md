@@ -7,6 +7,6 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./python3/1.%20Two%20Sum.py)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./python3/121.%20Two%20Sum.py)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./python3/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python3](./python3/392.%20Is%20Subsequence.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python3](./python3/977.%20Squares%20of%20a%20Sorted%20Array.py)|Easy|
